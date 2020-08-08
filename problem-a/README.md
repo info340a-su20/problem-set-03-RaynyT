@@ -19,6 +19,7 @@ Instructions for achieving this appearance are detailed below. Note that you wil
     - The columns should be sized as follows:
 
         - The first section should have a [base](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#article-header-id-12) size of `240px`. (A width relative to the browser would be more flexible but make it hard to isolate changes).
+        
         - The second section should have a `base` of `0` and [grow](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#article-header-id-10) to fill the remaining space. Use the `flex` shortcut property for this. 
         
             This column should have a background color of `#eee`.
