@@ -10,7 +10,7 @@ nav a {
 	margin-right: .5em;
 }
 
-#social-lin {
+#social-links {
 	display: none;
 }
 
@@ -38,7 +38,7 @@ footer {
   	display: none;
   }
 
-  #social-lin {
+  #social-links {
   	display: block;
   }
 }
